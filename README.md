@@ -1,16 +1,25 @@
-# git_exam
+# Git Practical Exam
 
-A new Flutter project.
+Create one repository for practical and provide the link of it for review.
 
-## Getting Started
+## Work on below points:
 
-This project is a starting point for a Flutter application.
+1. Pull and Merge difference
 
-A few resources to get you started if this is your first Flutter project:
+- Make example of pull request and two branch merge event.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Rebase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Try to rebase feature branch with master branch 
+
+3. Change commit message
+
+- Commit push on commit in feature branch and then change commit message
+
+4. cherry pick
+
+- Pick some commits from feature branch to master branch
+
+5. Drop commit
+
+- Remove some commit from feature branch.
